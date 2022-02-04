@@ -12,6 +12,7 @@ So I’ve boiled it down to a simple method of Four Laws of Simplicity (apologie
 3. Eliminate the rest.
 4. Organize the remaining stuff neatly and nicely.
 
-## Collect everything in one place
-Bring together great content from across your apps. YouTube video or video file, online article or email attachment: if you want to save it, add it to Collect.
 
+> If brevity is the soul of wit, simplicity is the soul of design. John Maeda uses the concept of simplicity to get at the nature of human thought and perception while drawing out tangible applications for business, technology, and life in general. The Laws of Simplicity is thoroughly optimistic, entertaining, and erudite, just as you would expect from Maeda. It is also the most compelling one hundred pages of design writing I have read this year.**
+
+> **Rob Forbes Founder, Design Within Reach**
