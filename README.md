@@ -12,3 +12,6 @@ So I’ve boiled it down to a simple method of Four Laws of Simplicity (apologie
 3. Eliminate the rest.
 4. Organize the remaining stuff neatly and nicely.
 
+## Collect everything in one place
+Bring together great content from across your apps. YouTube video or video file, online article or email attachment: if you want to save it, add it to Collect.
+
